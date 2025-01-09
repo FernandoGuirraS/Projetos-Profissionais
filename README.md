@@ -5,4 +5,9 @@
 # Projetos-Profissionais
 
 Espaço dedicado a projetos desenvolvidos ao longo da minha experiência profissional. Automatização, desenvolvimento web, diferentes aplicações que foram desenvolvidas 
-ao longo da minha carreira profissional e que possam apoiar o desenvolvimento de demais profissionais.
+ao longo da minha carreira profissional e que possam apoiar o desenvolvimento de demais profissionais. Os projetos desenvolvidos englobam assuntos:
+* Limpeza de planilhas
+* Automação RPA
+* Leitura e extração de informações de PDF's
+* Desenvolvimento de Aplicações
+* Outros
