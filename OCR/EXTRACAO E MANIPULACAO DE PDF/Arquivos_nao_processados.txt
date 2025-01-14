@@ -1,0 +1,8 @@
+Arquivos que não foram processados 
+
+RT4FGSpagina9.pdf 	 --- 	 RT 323652824 ALAN PETERSON MONTEIRO DOS NASCIMENTO.pdf
+Arquivos que não foram processados 
+
+RT 1FGSpagina1.pdf 	 --- 	 Falha: not enough values to unpack (expected 3, got 2)
+Arquivos que não foram processados 
+
